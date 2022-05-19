@@ -1,3 +1,4 @@
 site_name: CloudflarePages-MkDocs
 
-theme: material
+theme: 
+	name: material
