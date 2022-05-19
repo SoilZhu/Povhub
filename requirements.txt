@@ -1,5 +1,5 @@
 mkdocs
-pip install mkdocs-material
+pip install mkdocs-material=="8.*"
 #Add pip package if needed
 #mkdocs-bootswatch
 #mkdocs-minify-plugin
